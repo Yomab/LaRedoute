@@ -1,27 +1,27 @@
-/*PARTIE HEADER*/
+  /*PARTIE HEADER*/
 
-/*LE BLOC NOIR*/
-.d-block
-{
-  background-color: black;
-  height:40px;
-}
+  /*LE BLOC NOIR*/
+  .d-block
+  {
+    background-color: black;
+    height:40px;
+  }
 
-/*LA NAV BARRE AVEC LE LOGO*/
-
-
+  /*LA NAV BARRE AVEC LE LOGO*/
 
 
 
-/*LA NAV AVEC VENTES FLASH ACTIVE*/
 
-.vflash
-{
-  background-color: #e23655 !important;
-}
 
-.elementnav
-{
-  color: black;
-  font-size: 13px;
-}
+  /*LA NAV AVEC VENTES FLASH ACTIVE*/
+
+  .vflash
+  {
+    background-color: #e23655 !important;
+  }
+
+  .elementnav
+  {
+    color: black;
+    font-size: 13px;
+  }
