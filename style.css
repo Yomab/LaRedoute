@@ -39,11 +39,92 @@ header {
 	background-color: #ffffff;
 }
 
-
-#1a {
-background-image: url("images/1a.jpg");
+#img1
+{
 width: 100%;
-height: auto;
-position: fixed;
+height: 100%;
+position: relative;
 }
 
+.catalog
+{
+	margin-top: 0;
+margin-bottom: 20px;
+font-size: 26px;
+font-weight: bold;
+text-align: center;
+}
+
+#bloc1
+{
+ position: relative;
+ left: 6%;
+ }
+
+ #bloc2
+ {
+ 	position: relative;
+ 	left: 15%;
+ }
+
+#bloc3
+{
+	position: absolute;
+	top: 365%;
+	left: -4%;
+}
+
+#p1
+{
+	text-align: right;
+width: 100%;
+padding-left: 35%;
+position: absolute;
+left: -45%;
+top : 373%;
+}
+
+#button0
+{
+	margin-top: 10px;
+background: transparent;
+border: solid 1px #010101;
+padding: 14px 40px;
+font: 600 14px 'Source Sans Pro',arial;
+    font-family: "Source Sans Pro", arial;
+color: #010101;
+position: relative;
+left: 35%;
+}
+
+#carousel2 
+{
+	background-image:none !important;
+   filter:none !important;
+   position: relative;
+   left: 9%;
+}
+
+.glyphicon.glyphicon-chevron-right
+{
+   color:black; 
+   }
+   
+  #chevron1, #chevron2
+   {
+   	margin-left : 10%;
+   	color:black;
+   } 
+
+.nand 
+{
+text-align: center;
+}
+
+#police1
+{
+	color: #E23655;
+	font-family: 'Sacramento',arial!important;
+text-align: center;
+
+}
