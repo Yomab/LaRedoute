@@ -1,0 +1,49 @@
+/*PARTIE HEADER*/
+
+  /*LE BLOC NOIR*/
+  .d-block
+  {
+    background-color: black;
+    height:40px;
+  }
+
+  /*LA NAV BARRE AVEC LE LOGO*/
+
+
+
+
+
+  /*LA NAV AVEC VENTES FLASH ACTIVE*/
+
+  .vflash
+  {
+    background-color: #e23655 !important;
+  }
+
+  .elementnav
+  {
+    color: black;
+    font-size: 13px;
+}
+
+
+/*PARTIE BODY*/
+
+
+body {
+	background-color: #ffffff;
+}
+
+
+header {
+	background-color: #ffffff;
+}
+
+
+#1a {
+background-image: url("images/1a.jpg");
+width: 100%;
+height: auto;
+position: fixed;
+}
+
