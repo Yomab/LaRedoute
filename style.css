@@ -1,4 +1,4 @@
-  /*PARTIE HEADER*/
+/*PARTIE HEADER*/
 
   /*LE BLOC NOIR*/
   .d-block
@@ -24,4 +24,27 @@
   {
     color: black;
     font-size: 13px;
-  }
+}
+
+
+/*PARTIE BODY*/
+
+
+body {
+	background-color: #ffffff;
+}
+
+
+header {
+	background-color: #ffffff;
+}
+
+
+#1a {
+background-image: url("images/1a.jpg");
+width: 100%;
+height: auto;
+position: fixed;
+}
+
+/*PARTIE CATEGORIES LES PLUS RECHERCHER*/
