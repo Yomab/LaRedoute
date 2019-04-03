@@ -34,3 +34,16 @@ hr{
 #container2{
   background-color: none;
 }
+
+.Infotxt{
+  font-family: 'Source Sans Pro',Arial,sans-serif;
+  color: #b3acac;
+  font-size: 0.7rem;
+ line-height: 0.8rem;
+  margin-top: 30px;
+}
+
+.condition{
+  font-weight: bold;
+  font-size: 0.7rem;
+}
