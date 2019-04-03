@@ -1,17 +1,11 @@
 /*PARTIE HEADER*/
 
 /*LE BLOC NOIR*/
-.d-block
+.d-block1
 {
   background-color: black;
   height:40px;
 }
-
-/*LA NAV BARRE AVEC LE LOGO*/
-
-
-
-
 
 /*LA NAV AVEC VENTES FLASH ACTIVE*/
 
@@ -26,11 +20,10 @@
   font-size: 13px;
 }
 
-
 /*PARTIE BODY*/
 
-
-body {
+body
+{
   background-color: #ffffff;
 }
 
@@ -51,4 +44,31 @@ position: fixed;
 .btn
 {
   font-size: 10px;
+}
+
+
+/* 1ERE PARTIE FOOTER & LES ICONES RESEAUX SOCIAUX*/
+
+/*LES ICONES TWITTER ETC*/
+
+.iconfoot
+{
+  padding: 15px 15px 15px 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #e2eeee;
+  border-radius: 30px;
+}
+
+/*LES PARAGRAPHES SOUS LES ICONES DE CONDITIONS*/
+.p1
+{
+  font-size: 13px;
+}
+
+.p2
+{
+  margin: -20px 0 0 0;
+  font-size: 13px;
 }
