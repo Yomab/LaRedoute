@@ -41,9 +41,9 @@ header {
 
 #img1
 {
-width: 100%;
-height: 100%;
 position: relative;
+width: 150%;
+height: 100%;
 }
 
 .catalog
@@ -132,4 +132,308 @@ text-align: center;
 #police2
 {
 	text-align: center;
+	font-size: 13px;
+	letter-spacing: 0.8px;
+	font-family: arial;
+	color: #010101!important;
+
+}
+
+#img6a 
+{
+	position: relative;
+	left: 0%;
+}
+
+#img6b
+{
+	position: absolute;
+	top: 500%;
+	left: 57%;
+}
+
+#img6c
+{
+	position: absolute;
+	top: 500%;
+	left: 76%;
+}
+
+#img6d
+{
+	position: absolute;
+	top: 560%;
+	left: 57%;
+}
+
+#img6e
+{
+	position: absolute;
+	top: 560%;
+	left: 76%;
+}
+
+#button1
+{
+	margin-top: 10px;
+background: transparent;
+border: solid 1px #010101;
+padding: 14px 40px;
+font: 600 14px 'Source Sans Pro',arial;
+    font-family: "Source Sans Pro", arial;
+color: #010101;
+position: absolute;
+left: 17%;
+top: 597%;
+}
+
+#button2
+{
+	margin-top: 10px;
+background: transparent;
+border: solid 1px #010101;
+padding: 14px 40px;
+font: 600 14px 'Source Sans Pro',arial;
+    font-family: "Source Sans Pro", arial;
+color: #010101;
+position: absolute;
+left: 30%;
+top: 597%;
+}
+
+#img7a
+{
+position: absolute;
+	top: 655%;
+	left: 6%;
+}
+
+#img7b
+{
+	position: absolute;
+	top: 665%;
+	left: 52.5%;
+}
+
+#p2
+{
+text-align: left;
+width: 50%;
+margin-bottom: 24px;
+font-family: 'Source Sans Pro',Arial,sans-serif !important;
+position: absolute;
+top: 725%;
+left: 43%;
+}
+
+#button3
+{
+	margin-top: 10px;
+background: transparent;
+border: solid 1px #010101;
+padding: 14px 40px;
+font: 600 14px 'Source Sans Pro',arial;
+    font-family: "Source Sans Pro", arial;
+color: #010101;
+position: absolute;
+left: 43%;
+top: 738%;
+}
+
+#carousel4
+{
+	background-image:none !important;
+   filter:none !important;
+   position: relative;
+   left: 9%;
+}
+
+#img9a
+{
+	position: absolute;
+	left: 6%;
+}
+
+#img9b
+{
+	position: absolute;
+	left: 44%;
+	top: 880%;
+}
+
+#p3
+{
+	text-align: left;
+	font-size: 13.5px;
+margin-bottom: 15px;
+font-family: 'Source Sans Pro',Arial,sans-serif !important;
+position: absolute;
+top: 937%;
+left: 43%;
+}
+
+#button4
+{
+	margin-top: 10px;
+background: transparent;
+border: solid 1px #010101;
+padding: 14px 40px;
+font: 600 14px 'Source Sans Pro',arial;
+    font-family: "Source Sans Pro", arial;
+color: #010101;
+position: absolute;
+left: 43%;
+top: 947%;
+}
+
+#module
+{
+	background-color: #f5eeeb;
+	position: absolute;
+	top: 965%;
+	left: 0%;
+	right: 0%;
+}
+
+#catalog4
+{
+	position: relative;
+	left: 15%;
+}
+
+#p4
+{
+text-align: center;
+font-family: 'Source Sans Pro',Arial,sans-serif !important;
+font-size: 13.5px;
+position: absolute;
+left: 9%;
+top: 27%;
+}
+
+#img10a
+{
+	position: relative;
+	left: -4%;
+	top: 47%;
+}
+
+#button5
+{
+	margin-top: 10px;
+background: transparent;
+border: solid 1px #010101;
+padding: 14px 40px;
+font: 600 14px 'Source Sans Pro',arial;
+    font-family: "Source Sans Pro", arial;
+color: #010101;
+position: absolute;
+left: 13.5%;
+top: 80%;
+}
+
+#img10b
+{
+position: relative;
+	left: 15%;
+	top: 5%;	
+}
+
+#img11a
+{
+	position: absolute;
+	left: 6%;
+}
+
+#img11b
+{
+	position: absolute;
+	left: 43%;
+	top: 1085%;
+}
+
+#p5
+{
+	text-align: left;
+	font-size: 13.5px;
+margin-bottom: 15px;
+font-family: 'Source Sans Pro',Arial,sans-serif !important;
+position: absolute;
+top: 1142.5%;
+left: 43%;
+}
+
+#button6
+{
+	margin-top: 10px;
+background: transparent;
+border: solid 1px #010101;
+padding: 14px 40px;
+font: 600 14px 'Source Sans Pro',arial;
+    font-family: "Source Sans Pro", arial;
+color: #010101;
+position: absolute;
+left: 43%;
+top: 1152.5%;
+
+}
+
+#module0
+{
+	background-color: #f3f3f3;
+	position: absolute;
+	top: 1170%;
+	left: 0%;
+	right: 0%;
+}
+
+#catalog7
+{
+	position: relative;
+	left: 65%;
+	top: %;
+}
+
+#p6
+{
+	text-align: center;
+font-family: 'Source Sans Pro',Arial,sans-serif !important;
+font-size: 12.5px;
+position: absolute;
+left: 68%;
+top: 42.5%;
+}
+
+#img12a
+{
+	position: relative;
+	top: 3%;
+	left: -32.5%;
+}
+
+
+#button7
+{
+	margin-top: 10px;
+background: transparent;
+border: solid 1px #010101;
+padding: 14px 40px;
+font: 600 14px 'Source Sans Pro',arial;
+    font-family: "Source Sans Pro", arial;
+color: #010101;
+position: absolute;
+left: 70.5%;
+top: 60.5%;
+}
+
+
+
+
+/* Modification class btn bootstrap */
+
+
+.btn{
+
+	border-radius:0rem;
+
 }
