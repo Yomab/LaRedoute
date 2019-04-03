@@ -435,5 +435,93 @@ top: 60.5%;
 .btn{
 
 	border-radius:0rem;
+}
 
+
+/*PARTIE CATEGORIES LES PLUS RECHERCHER*/
+.btn
+{
+  font-size: 10px;
+}
+
+/* 1ERE PARTIE FOOTER & LES ICONES RESEAUX SOCIAUX*/
+
+/*LES ICONES TWITTER ETC*/
+
+.iconfoot
+{
+  padding: 15px 15px 15px 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #e2eeee;
+  border-radius: 30px;
+}
+
+/*LES PARAGRAPHES SOUS LES ICONES DE CONDITIONS*/
+.p1
+{
+  font-size: 13px;
+}
+
+.p2
+{
+  margin: -20px 0 0 0;
+  font-size: 13px;
+}
+
+/*LE BLOC NOIR*/
+.d-block1
+{
+  background-color: black;
+  height:40px;
+}
+
+/*suite footer*/
+.container-fluid{
+  background-color: #555555;
+}
+
+.Services{
+  font-family: 'Source Sans Pro',Arial,sans-serif;
+  color: #b3acac;
+  font-size: 0.7rem;
+ line-height: 0.8rem;
+}
+
+h4{
+  font-weight: bold;
+  margin-top: 30px;
+  font-size: 10px;
+  color: #b3acac;
+  text-transform: uppercase;
+}
+
+hr{
+  background-color: #d8d8d8;
+  margin-left: 1px;
+  width: 50px;
+}
+
+#colFormLabelSm{
+  height: 40px;
+  width: 200px;
+  border-radius: 0px;
+}
+/*footer link*/
+#container2{
+  background-color: none;
+}
+
+.Infotxt{
+  font-family: 'Source Sans Pro',Arial,sans-serif;
+  color: #b3acac;
+  font-size: 0.7rem;
+ line-height: 0.8rem;
+  margin-top: 30px;
+}
+
+.condition{
+  font-weight: bold;
+  font-size: 0.7rem;
 }
